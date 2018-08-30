@@ -12,9 +12,14 @@ position: relative;
   background:silver;
   z-index: 1;
 }
-.screen{
+#apple{
+  margin-left: 50%;
+  margin-bottom: 80%;
+
+}
+/* .screen{ */
   /* background-image: url("http://hd.wallpaperswide.com/thumbs/macos_sierra_2-t2.jpg"); */
-  background:red;
+  /* background:red;
   position: relative;
   margin: auto;
   display: block;
@@ -23,9 +28,7 @@ position: relative;
   height: 500px;
   background: black;
   z-index:3;
-
-
-}
+} */
 .bezel-blk{
   position: relative;
   margin: auto;
