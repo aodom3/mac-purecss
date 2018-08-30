@@ -1,0 +1,12 @@
+.body{
+  background-color:orange;
+}
+.mac{
+position: relative;
+  margin: auto;
+  display: block;
+  margin-top: 8%;
+  width: 600px;
+  height: 600px;
+  background:black;
+}
