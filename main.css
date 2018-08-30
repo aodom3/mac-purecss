@@ -1,12 +1,40 @@
 .body{
-  background-color:orange;
+  background:orange;
 }
-.mac{
+.mac-grey{
 position: relative;
   margin: auto;
   display: block;
+  border-radius: 4%;
   margin-top: 8%;
-  width: 600px;
+  width: 900px;
   height: 600px;
-  background:black;
+  background:silver;
+  z-index: 1;
+}
+.screen{
+  /* background-image: url("http://hd.wallpaperswide.com/thumbs/macos_sierra_2-t2.jpg"); */
+  background:red;
+  position: relative;
+  margin: auto;
+  display: block;
+  margin-top: 8%;
+  width: 900px;
+  height: 500px;
+  background: black;
+  z-index:3;
+
+
+}
+.bezel-blk{
+  position: relative;
+  margin: auto;
+  display: block;
+  border-radius: 4%, 4%, 0,0;
+  margin-top: 8%;
+  width: 900px;
+  height: 500px;
+  background: black;
+  z-index:2;
+
 }
